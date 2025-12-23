@@ -1,7 +1,7 @@
 # ChessGame-BUKC
 CHESS GAME
 
-A Chess Game made In Java, and educational Project Depends on:
+A Chess Game made In Java, an educational Project Depends on:
 OOP Paradigm:
 Inheritance
 Ploymorphism
