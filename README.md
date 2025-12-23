@@ -11,4 +11,4 @@ DataBase:
 Uses JDBC, Java's external library for storing data in MS ACCESS(SQL).
 
 UI/UX:
-GUI of this application is designed and implement the built-in library of JAVA.
+GUI of this application is designed and implemented using swing the built-in library of JAVA.
